@@ -1,0 +1,19 @@
+*{
+    /* background-color: blueviolet; */
+}
+.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6f9f09;
+}
+span{
+    float: left;
+}
+span a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 17px;
+}
